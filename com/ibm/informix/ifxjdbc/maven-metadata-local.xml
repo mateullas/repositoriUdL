@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ibm.informix</groupId>
+  <artifactId>ifxjdbc</artifactId>
+  <versioning>
+    <release>JDBC.3.70.JC8</release>
+    <versions>
+      <version>JDBC.3.70.JC8</version>
+    </versions>
+    <lastUpdated>20220214153843</lastUpdated>
+  </versioning>
+</metadata>
